@@ -1,0 +1,99 @@
+area acronym	area	conference acronym	conference name	twitter screen names
+AI	Artificial intelligence	AAMAS	International Conference on Autonomous Agents and Multiagent Systems	aamas2012
+AI	Artificial intelligence	BMVC	British Machine Vision Conference	bmvc2013, bmvc2014
+AI	Artificial intelligence	COLT	Conference on Learning Theory	colt2010a
+AI	Artificial intelligence	CVPR	Conference on Computer Vision and Pattern Recognition	cvpr
+AI	Artificial intelligence	EACL	Annual Conference of the European Chapter of the Association for Computational Linguistics	eacl2014
+AI	Artificial intelligence	ECCV	European Conference on Computer Vision	eccv12
+AI	Artificial intelligence	ICAPS	International Conference on Automated Planning and Scheduling	icaps2013
+AI	Artificial intelligence	ICML	International Conference on Machine Learning	icml2010, icmlconference
+AI	Artificial intelligence	ICPR	International Conference on Pattern Recognition	icpr2012
+AI	Artificial intelligence	IJCAI	International Joint Conference on Artificial Intelligence	ijcai2013, ijcai
+AI	Artificial intelligence	ISBI	International Symposium on Biomedical Imaging	isbi12
+AI	Artificial intelligence	NAACL	Annual Conference of the North American Chapter of the Association for Computational Linguistics	naacl
+AI	Artificial intelligence	NIPS	Conference on Neural Information Processing Systems	nipsconference
+AI	Artificial intelligence	NLDB	International Conference on Applications of Natural Language to Information Systems	nldb12
+AI	Artificial intelligence	RuleML	RuleML Symposium	ruleml2011
+ALG	Algorithms and theory	ACMGIS	ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems	sigspatial_gis
+CA	Computer architecture	ASAP	ApplicationSpecific Systems, Architectures, and Processors	asap_2013
+CA	Computer architecture	DAC	Design Automation Conference	51stdac
+CA	Computer architecture	ECRTS	Euromicro Conference on RealTime Systems	ecrts
+CA	Computer architecture	HPCA	International Symposium on HighPerformance Computer Architecture	hpca16
+CA	Computer architecture	ICCAD	International Conference on ComputerAided Design	iccad
+CA	Computer architecture	LCTES	ACM SIGPLAN/SIGBED Conference on Languages, Compilers, and Tools for Embedded Systems	lctes13
+CB	Computational biology	ISMB	Intelligent Systems for Molecular Biology	ismb2013
+CB	Computational biology	PSB	Pacific Symposium on Biocomputing	pacsymbiocomp
+CB	Computational biology	RECOMB	Research in Computational Molecular Biology	recomb2010, recomb2011
+CG	Computer graphics	Eurographics	Annual Conference of the European Association for Computer Graphics	eurograph2013
+CG	Computer graphics	I3D	ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games	i3d2013, i3dconf
+CG	Computer graphics	ICIP	IEEE International Conference on Image Processing	ieeeicip
+CG	Computer graphics	ICME	IEEE International Conference on Multimedia and Expo	icme2011, icme2014
+CG	Computer graphics	ACMMM	ACM International Conference on Multimedia	acmmm13
+CG	Computer graphics	SIGGRAPH	International Conference on Computer Graphics and Interactive Techniques	siggraph
+CN	Computer Networking and Networked Systems	GlobeCom	IEEE Global Communications Conference	ieeeglobecom
+CN	Computer Networking and Networked Systems	HotMobile	International Workshop on Mobile Computing Systems and Applications	hotmobile2011
+CN	Computer Networking and Networked Systems	ICC	IEEE International Conference on Communications	ieeeicc
+CN	Computer Networking and Networked Systems	ICNP	IEEE International Conference on Network Protocols	icnp2009
+CN	Computer Networking and Networked Systems	IM	IFIP/IEEE International Symposium on Integrated Network Management	ieeeim
+CN	Computer Networking and Networked Systems	INFOCOM	IEEE Conference on Computer Communications	infocom_14, infocom2013
+CN	Computer Networking and Networked Systems	IPSN	ACM/IEEE International Conference on Information Processing in Sensor Networks	ipsn2014
+CN	Computer Networking and Networked Systems	ISWC	International Symposium on Wearable Computers	iswc11, iswc12, iswc2012, iswcnet
+CN	Computer Networking and Networked Systems	LCN	IEEE Conference on Local Computer Networks	ieeelcn, lcn2009
+CN	Computer Networking and Networked Systems	MASCOTS	IEEE/ACM International Symposium on Modelling, Analysis and Simulation of Computer and Telecommunication Systems	mascots
+CN	Computer Networking and Networked Systems	MobiCom	ACM International Conference on Mobile Systems, Application and Services	mobicom09, mobicom2013
+CN	Computer Networking and Networked Systems	MobiSys	ACM International Conference on Mobile Computing and Systems	mobisys08, mobisys2011, mobisys2012, mobisys2013, mobisys2014
+CN	Computer Networking and Networked Systems	Networking	IFIP International Conference on Networking	networking2014
+CN	Computer Networking and Networked Systems	PAM	Passive and Active Measurement Conference	pam2013hk
+CN	Computer Networking and Networked Systems	PerCom	IEEE International Conference on Pervasive Computing and Communications	percom2013
+CN	Computer Networking and Networked Systems	SenSys	ACM Conference on Embedded Networked Sensor Systems	sensys_acm
+CN	Computer Networking and Networked Systems	SIGCOMM	ACM SIGCOMM Conference	acmsigcomm, sigcomm09, sigcomm12, sigcomm2011
+CN	Computer Networking and Networked Systems	Ubicomp	International Conference on Ubiquitous Computing	ubicomp, ubicomp2009, ubicomp2010, ubicomp2011, ubicomp2012, ubicomp2013, ubicompconf
+CN	Computer Networking and Networked Systems	WiOpt	International Symposium on Modeling and Optimization in Mobile, Ad Hoc, and Wireless Networks	wiopt2012
+CN	Computer Networking and Networked Systems	WoWMoM	IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks	wowmom2011
+DC	Concurrent, distributed and parallel computing	CCGrid	IEEE/ACM International Conference on Cluster, Cloud, and Grid Computing	ccgrid2011
+DC	Concurrent, distributed and parallel computing	DSN	International Conference on Dependable Systems and Networks	dsn_2011, dsn2014
+DC	Concurrent, distributed and parallel computing	HiPC	International Conference on High Performance Computing	hipcconf
+DC	Concurrent, distributed and parallel computing	ICAC	International Conference on Autonomic Computing	icac_conf
+DC	Concurrent, distributed and parallel computing	IPDPS	IEEE International Parallel and Distributed Processing Symposium	ipdps
+DC	Concurrent, distributed and parallel computing	SC	ACM/IEEE International Conference for High Performance Computing, Networking, Storage, and Analysis	supercomputing
+DM	Data Management	CAiSE	Conference on Advanced Information Systems Engineering	caiseconference
+DM	Data Management	CIKM	ACM Conference on Information and Knowledge Management	cikm2011, cikm2012
+DM	Data Management	ECIS	European Conference on Information Systems	ecis2011
+DM	Data Management	ER	International Conference on Conceptual Modeling	er2012_florence
+DM	Data Management	ICDE	International Conference on Data Engineering	icde2011, icde2013, ieeeicde
+DM	Data Management	ICDM	IEEE International Conference on Data Mining	icdm2013, icdmsocial
+DM	Data Management	ISWC	International Semantic Web Conference	iswc13, iswc2008, iswc2010, iswc2011, iswc2013, iswc2014
+DM	Data Management	KDD	ACM SIGKDD Conference on Knowledge Discovery and Data Mining	kdd2010, kdd2011, kdd_news
+DM	Data Management	PAKDD	The annual PacificAsia Conference on Knowledge Discovery and Data Mining	pakdd2010, pakdd2012, pakdd2013
+DM	Data Management	SIGIR	Annual International ACM SIGIR Conference	sigir2013
+DM	Data Management	SSTD	Symposium on Spatial and Temporal Databases	sstd2011
+DM	Data Management	VLDB	International Conference on Very Large Data Bases	vldb2012, vldb2013
+DM	Data Management	WWW	World Wide Web Conference	www2010, www2011, www2012lyon, www2013rio, www2014_korea
+EDU	Education	CSCL	International Conference on Computer Supported Collaborative Learning	cscl2013
+EDU	Education	ICALT	International Conference on Advanced Learning Technologies	icalt2012
+EDU	Education	ITiCSE	ACMSIGCSE Annual Conference on Innovation and Technology in Computer Science Education	iticse2013, iticse2014
+EDU	Education	SIGCSE	ACM Technical Symposium on Computer Science Education	sigcse2011, sigcse2012, sigcse_ts
+HCI	Human-computer interaction	CHI	ACM Conference on Human Factors in Computing Systems	acmchi2012, chi2010, chi2011, sig_chi
+HCI	Human-computer interaction	CSCW	Conference on Computer Supported Cooperative Work	cscw2010, cscw2011
+HCI	Human-computer interaction	DIS	Designing Interactive Systems	2014dis
+HCI	Human-computer interaction	IUI	International Conference on Intelligent User Interfaces	iui2011, iuiconference
+HCI	Human-computer interaction	MobileHCI	Conference on HumanComputer Interaction with Mobile Devices and Services	mobilehci2010, mobilehci2011, mobilehci2012, mobilehci2013
+HCI	Human-computer interaction	SIGDOC	ACM International Conference on Design of Communication	sigdoc
+HCI	Human-computer interaction	UIST	ACM Symposium on User Interface Software and Technology	uist2012, uist2013
+HCI	Human-computer interaction	VL/HCC	IEEE Symposium on Visual Languages and HumanCentric Computing	vlhcc
+OS	Operating systems	SOSP	ACM Symposium on Operating Systems Principles	sosp09, sosp13, sosp2011
+OS	Operating systems	USENIX	USENIX Annual Technical Conference	usenix
+PL	Programming languages	AOSD	AspectOriented Software Development	aosd2011, aosd2012, aosd2013, modularity14
+PL	Programming languages	ECOOP	European Conference on ObjectOriented Programming	ecoop2011, ecoop2012
+PL	Programming languages	OOPSLA	Conference on ObjectOriented Programming, Systems, Languages, and Applications	oopsla2008, oopsla2009, splashcon
+PL	Programming languages	PLDI	ACM SIGPLAN Conference on Programming Language Design and Implementation	pldi, pldi2012
+PL	Programming languages	POPL	Symposium on Principles of Programming Languages	popl2013
+SE	Software engineering	FSE	ACM SIGSOFT Symposium on the Foundations of Software Engineering	fse2010, fse2014, isec2013, sigsoft
+SE	Software engineering	ICSE	International Conference on Software Engineering	icse2012, icse2013, icseconf
+SE	Software engineering	ICSM	International Conference on Software Maintenance	icsm2010, icsm2011, icsmorganizers
+SE	Software engineering	ISSTA	International Symposium on Software Testing and Analysis	issta2012
+SE	Software engineering	RE	IEEE International Requirements Engineering Conference	ieee_re
+SEC	Security and privacy	ACNS	Applied Cryptography and Network Security 	acns2013
+SEC	Security and privacy	EUROCRYPT	International Conference on the Theory and Applications of Cryptographic Techniques	eurocrypt2013
+SEC	Security and privacy	IEEESSP	IEEE Symposium on Security and Privacy	ieeessp
+SEC	Security and privacy	USENIX	Security Symposium	usenixsecurity
