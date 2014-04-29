@@ -84,8 +84,8 @@ computer scientists.
 | has.url | Boolean | true if URL exists in user profile
 | url.has.tilde |  Boolean | true if URL in user profile contains ~ (the tilde character)..
 | url.has.academic.domain | Boolean | true if URL in user profile contains academic top-level domain .edu or country code second-level domain .ac (e.g., .ac.uk)
-| has.description | Boolean | true if user profile has description
-| description.has.pattern | Boolean | true if user profile description contains at least one of the keywords: architect, assistant, associate, author, candidate, co-founder, cs, designer, developer, director, engineer, fellow, founder, geek, graduate, lecturer, manager, phd, ph.d, prof, professor, programmer, researcher, scientist, senior
+| has.bio | Boolean | true if user profile has bio
+| bio.has.pattern | Boolean | true if user bio contains at least one of the keywords: architect, assistant, associate, author, candidate, co-founder, cs, designer, developer, director, engineer, fellow, founder, geek, graduate, lecturer, manager, phd, ph.d, prof, professor, programmer, researcher, scientist, senior
 | language        | Boolean | true if user language is English
 | default.profile.image   | Boolean | true if user has a non-default profile picture
 | nof.tweets      | Numeric | number of tweets in profile
@@ -108,10 +108,10 @@ computer scientists.
 * [list of stopword hashtags](data/feature_stopword_hashtags.tsv)
   removed from the
   [list of scientific hashtags](data/feature_scientific_hashtags.tsv)
-* [list of scientific terms in the profile description](data/feature_scientific_terms_description.tsv) used for feature  *description.has.pattern*
-* [list of stopword terms from the profile description](data/feature_stopwords_description.tsv)
+* [list of scientific terms in the bio of a user profile](data/feature_scientific_terms_bio.tsv) used for feature *bio.has.pattern*
+* [list of stopword terms from the bio of a user profile](data/feature_stopwords_bio.tsv)
   removed from the
-  [list of scientific terms in the profile description](data/feature_scientific_terms_description.tsv)
+  [list of scientific terms in the bio of a user profile](data/feature_scientific_terms_bio.tsv)
 
 
 ## Classification
