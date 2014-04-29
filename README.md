@@ -85,7 +85,7 @@ computer scientists.
 | url.has.tilde |  Boolean | true if URL in user profile contains ~ (the tilde character)..
 | url.has.academic.domain | Boolean | true if URL in user profile contains academic top-level domain .edu or country code second-level domain .ac (e.g., .ac.uk)
 | has.description | Boolean | true if user profile has description
-| description.has.pattern | Boolean | true if user profile contains at least one of the keywords: architect, assistant, associate, author, candidate, co-founder, cs, designer, developer, director, engineer, fellow, founder, geek, graduate, lecturer, manager, phd, ph.d, prof, professor, programmer, researcher, scientist, senior
+| description.has.pattern | Boolean | true if user profile description contains at least one of the keywords: architect, assistant, associate, author, candidate, co-founder, cs, designer, developer, director, engineer, fellow, founder, geek, graduate, lecturer, manager, phd, ph.d, prof, professor, programmer, researcher, scientist, senior
 | language        | Boolean | true if user language is English
 | default.profile.image   | Boolean | true if user has a non-default profile picture
 | nof.tweets      | Numeric | number of tweets in profile
@@ -104,6 +104,15 @@ computer scientists.
 | nof.conf.mentions       | Numeric | number of bootstrapped users mentioned in the latest 3200 tweets
 | 
 * [list of features for all candidates and negative examples](data/features.tsv)
+* [list of scientific hashtags](data/feature_scientific_hashtags.tsv) used for the feature *nof.conf.hashtags*
+* [list of stopword hashtags](data/feature_stopword_hashtags.tsv)
+  removed from the
+  [list of scientific hashtags](data/feature_scientific_hashtags.tsv)
+* [list of scientific terms in the profile description](data/feature_scientific_terms_description.tsv) used for feature  *description.has.pattern*
+* [list of stopword terms from the profile description](data/feature_stopwords_description.tsv)
+  removed from the
+  [list of scientific terms in the profile description](data/feature_scientific_terms_description.tsv)
+
 
 ## Classification
 
