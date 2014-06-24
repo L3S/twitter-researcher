@@ -1,8 +1,10 @@
 # Researchers on Twitter
 
 This repository contains the data used in the paper
-[Identifying and Analyzing Researchers on Twitter](http://www.bibsonomy.org/bibtex/2acf38d9407bfa4fdd06e82b7937daab1/jaeschke). You
-can cite the data as follows:
+[Identifying and Analyzing Researchers on Twitter](http://www.bibsonomy.org/bibtex/2acf38d9407bfa4fdd06e82b7937daab1/jaeschke).
+At the moment, this includes computer scientists, though an extension to other disciplines is planned.
+
+You can cite the data as follows:
 
 *Asmelash Teka Hadgu and Robert Jäschke. 2014. Identifying and
 Analyzing Researchers on Twitter. In Proceedings of the 6th Annual ACM
@@ -10,6 +12,8 @@ Web Science Conference (WebSci '14). ACM, New York, NY, USA.*
 
 
 ## Overview
+
+This is the processing pipeline. The data for each step is provided below.
 
 ![Overview of the processing pipeline](img/pipeline.png)
 
