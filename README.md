@@ -9,7 +9,7 @@ You can cite the data as follows:
 
 *Asmelash Teka Hadgu and Robert Jäschke. 2014. Identifying and
 Analyzing Researchers on Twitter. In Proceedings of the 6th Annual ACM
-Web Science Conference (WebSci '14). 23-30. ACM, New York, NY, USA.*
+Web Science Conference (WebSci '14). 23-30. ACM, New York, NY, USA. DOI: 10.1145/2615569.2615676*
 
 
 ## Overview
