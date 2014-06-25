@@ -14,8 +14,8 @@ Web Science Conference (WebSci '14). 23-30. ACM, New York, NY, USA. DOI: 10.1145
 
 **Please help us verifying the data** by participating in
 [this survey](http://researchersontwitter.appspot.com/) and forwarding
-the link to other computer scientists. We will publish the results in
-this repository.
+the link to other computer scientists. It's just two questions! We
+will publish the results in this repository.
 
 
 ## Overview
