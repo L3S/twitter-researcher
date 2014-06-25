@@ -12,6 +12,12 @@ Analyzing Researchers on Twitter. In Proceedings of the 6th Annual ACM
 Web Science Conference (WebSci '14). 23-30. ACM, New York, NY, USA. DOI: 10.1145/2615569.2615676*
 
 
+**Please help us verifying the data** by participating in
+[this survey](http://researchersontwitter.appspot.com/) and forwarding
+the link to other computer scientists. We will publish the results in
+this repository.
+
+
 ## Overview
 
 This is the processing pipeline. The data for each step is provided below.
