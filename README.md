@@ -2,7 +2,7 @@
 
 This repository contains the data used in the paper
 [Identifying and Analyzing Researchers on Twitter](http://www.bibsonomy.org/bibtex/2acf38d9407bfa4fdd06e82b7937daab1/jaeschke)
-[[PDF](http://sheridanprinting.com/14-websci4chRV610jmp/docs/p23.pdf)].
+[[PDF](http://dx.doi.org/10.1145/2615569.2615676)].
 At the moment, this includes computer scientists, though an extension to other disciplines is planned.
 
 You can cite the data as follows:
@@ -109,7 +109,7 @@ computer scientists.
 | nof.tweets      | Numeric | number of tweets in profile
 | nof.followers   | Numeric | number of followers in profile
 | nof.friends     | Numeric | number of friends in profile
-| friend.follower.ratio   | Numeric| nof.friends to nof.followers ratio
+| friend.follower.ratio   | Numeric| nof.friends/(nof.followers ratio + 0.01)
 | nof.self.tweets | Numeric | number of original tweets from the latest 3200 tweets at the time of crawl
 | nof.retweets    | Numeric | number of retweets of a user from the latest 3200 tweets at the time of crawl
 | retweet.tweet.ratio     | Numeric | nof.retweets to (nof.self.tweets + nof.retweets) ratio
@@ -120,7 +120,7 @@ computer scientists.
 | nof.overall.hashtags    | Numeric | number of tweets with hashtag(s) from the latest 3200 tweets at the time of crawl
 | fraction.of.distinct.hashtags   | Numeric | nof.distinct.hashtags to nof.overall.hashtags ratio
 | nof.conf.mentions       | Numeric | number of bootstrapped users mentioned in the latest 3200 tweets
-| 
+ 
 * [list of features for all candidates and negative examples](data/features.tsv)
 * [list of scientific hashtags](data/feature_scientific_hashtags.tsv) used for the feature *nof.conf.hashtags*
 * [list of stopword hashtags](data/feature_stopword_hashtags.tsv)
