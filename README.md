@@ -5,18 +5,10 @@ This repository contains the data used in the paper
 [[PDF](http://dx.doi.org/10.1145/2615569.2615676)].
 At the moment, this includes computer scientists, though an extension to other disciplines is planned.
 
-You can cite the data as follows:
-
-*Asmelash Teka Hadgu and Robert Jäschke. 2014. Identifying and
-Analyzing Researchers on Twitter. In Proceedings of the 6th Annual ACM
-Web Science Conference (WebSci '14). 23-30. ACM, New York, NY, USA. DOI: 10.1145/2615569.2615676*
-
-The data is also available on Zenodo: [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.12942.svg)](http://dx.doi.org/10.5281/zenodo.12942)
-
-[![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
-
-This work is licensed under a
-[Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)
+- The data can be cited as follows: *Asmelash Teka Hadgu and Robert Jäschke. 2014. Identifying and Analyzing Researchers on Twitter. In Proceedings of the 6th Annual ACM Web Science Conference (WebSci '14). 23-30. ACM, New York, NY, USA. DOI: 10.1145/2615569.2615676*
+- The data is also available on Zenodo: [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.12942.svg)](http://dx.doi.org/10.5281/zenodo.12942)
+- The data is licensed under a
+[Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/) [![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
 
 **Please help us verifying the data** by participating in
