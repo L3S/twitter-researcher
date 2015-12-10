@@ -52,14 +52,14 @@ We could find a matching
 [DBLP](http://www.informatik.uni-trier.de/~ley/db/) author profile for
 9191 of the 52678 candidates.
 
-| Twitter Screen Name | Real Name | DBLP URL |
-| --------- | --------------- | ---------------- |
-| 01Myers	    | Michael Myers	   | http://dblp.uni-trier.de/pers/hd/m/Myers:Michael.html   |
-| 0xcharlie	    | Charlie Miller   | http://dblp.uni-trier.de/pers/hd/m/Miller:Charlie.html  |
-| 10705013	    | Nina Jeliazkova  | http://dblp.uni-trier.de/pers/hd/j/Jeliazkova:Nina.html |
-| 113134180	    | Wang Yao         | http://dblp.uni-trier.de/pers/hd/y/Yao:Wang.html        |
-| 123456qwertz	| Anna Averbakh    | http://dblp.uni-trier.de/pers/hd/a/Averbakh:Anna.html   |
-| ... | ... | ... |
+|         ID | Twitter Screen Name | Real Name       | DBLP URL                                                |
+| ---------- | ------------------- | --------------- | .------------------------------------------------------ |
+| 1043459150 | 01Myers             | Michael Myers   | http://dblp.uni-trier.de/pers/hd/m/Myers:Michael.html   |
+|   65845659 | 0xcharlie           | Charlie Miller  | http://dblp.uni-trier.de/pers/hd/m/Miller:Charlie.html  |
+|   55857505 | 10705013            | Nina Jeliazkova | http://dblp.uni-trier.de/pers/hd/j/Jeliazkova:Nina.html |
+|  293990161 | 113134180           | Wang Yao        | http://dblp.uni-trier.de/pers/hd/y/Yao:Wang.html        |
+|  171917048 | 123456qwertz        | Anna Averbakh   | http://dblp.uni-trier.de/pers/hd/a/Averbakh:Anna.html   |
+|        ... | ...                 | ...             | ...                                                     |
 
 * [list of matched candidates](data/candidates_matched.tsv)
 
