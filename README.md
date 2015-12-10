@@ -52,8 +52,8 @@ We could find a matching
 [DBLP](http://www.informatik.uni-trier.de/~ley/db/) author profile for
 9191 of the 52678 candidates.
 
-|         ID | Twitter Screen Name | Real Name       | DBLP URL                                                |
-| ---------- | ------------------- | --------------- | .------------------------------------------------------ |
+| ID         | Twitter Screen Name | Real Name       | DBLP URL                                                |
+| ---------- | ------------------- | --------------- | ------------------------------------------------------- |
 | 1043459150 | 01Myers             | Michael Myers   | http://dblp.uni-trier.de/pers/hd/m/Myers:Michael.html   |
 |   65845659 | 0xcharlie           | Charlie Miller  | http://dblp.uni-trier.de/pers/hd/m/Miller:Charlie.html  |
 |   55857505 | 10705013            | Nina Jeliazkova | http://dblp.uni-trier.de/pers/hd/j/Jeliazkova:Nina.html |
