@@ -5,17 +5,23 @@ This repository contains the data used in the paper
 [[PDF](http://dx.doi.org/10.1145/2615569.2615676)].
 At the moment, this includes computer scientists, though an extension to other disciplines is planned.
 
-- The data can be cited as follows: *Asmelash Teka Hadgu and Robert Jäschke. 2014. Identifying and Analyzing Researchers on Twitter. In Proceedings of the 6th Annual ACM Web Science Conference (WebSci '14). 23-30. ACM, New York, NY, USA. DOI: 10.1145/2615569.2615676*
-- The data is also available on Zenodo: [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.12942.svg)](http://dx.doi.org/10.5281/zenodo.12942)
+- The data can be cited as follows: *Asmelash Teka Hadgu and Robert
+  Jäschke. 2014. Identifying and Analyzing Researchers on Twitter. In
+  Proceedings of the 6th Annual ACM Web Science Conference (WebSci
+  '14). 23-30. ACM, New York, NY, USA. DOI: 10.1145/2615569.2615676*
+  ([PDF](https://www.kbs.uni-hannover.de/~jaeschke/pdf/hadgu2014identifying.pdf))
+- The data is also available on Zenodo:
+  [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.12942.svg)](http://dx.doi.org/10.5281/zenodo.12942)
 - The data is licensed under a
-[Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/) [![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+[Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)
+[![Creative Commons License](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)
 
-
-**Please help us verifying the data** by participating in
-[this survey](http://researchersontwitter.appspot.com/) and forwarding
-the link to other computer scientists. It's just two questions! We
-will publish the results in this repository.
-
+The file [features_reciprocity.tsv](data/features_reciprocity.tsv)
+contains the data that was used in the paper *S. Linek, A. Teka Hadgu,
+C.P. Hoffmann, R. Jäschke, C. Puschmann: It's all about information?
+The Following Behaviour of Professors and PhD Students on Twitter. The
+Journal of Web Science. 3, 2017.*
+([PDF](http://www.webscience-journal.net/webscience/article/view/15))
 
 ## Overview
 
@@ -46,20 +52,20 @@ or are followed by at least one of the seeds.
 
 * [list of candidates](data/candidates.tsv)
 
-## Verified Candidates
+## Matched Candidates
 
 We could find a matching
 [DBLP](http://www.informatik.uni-trier.de/~ley/db/) author profile for
 9191 of the 52678 candidates.
 
-| ID         | Twitter Screen Name | Real Name       | DBLP URL                                                |
-| ---------- | ------------------- | --------------- | ------------------------------------------------------- |
-| 1043459150 | 01Myers             | Michael Myers   | http://dblp.uni-trier.de/pers/hd/m/Myers:Michael.html   |
-|   65845659 | 0xcharlie           | Charlie Miller  | http://dblp.uni-trier.de/pers/hd/m/Miller:Charlie.html  |
-|   55857505 | 10705013            | Nina Jeliazkova | http://dblp.uni-trier.de/pers/hd/j/Jeliazkova:Nina.html |
-|  293990161 | 113134180           | Wang Yao        | http://dblp.uni-trier.de/pers/hd/y/Yao:Wang.html        |
-|  171917048 | 123456qwertz        | Anna Averbakh   | http://dblp.uni-trier.de/pers/hd/a/Averbakh:Anna.html   |
-|        ... | ...                 | ...             | ...                                                     |
+| ID         | Screen Name  | Real Name       | DBLP URL                                                |
+| ---------- | ------------ | --------------- | ------------------------------------------------------- |
+| 1043459150 | 01Myers      | Michael Myers   | http://dblp.uni-trier.de/pers/hd/m/Myers:Michael.html   |
+|   65845659 | 0xcharlie    | Charlie Miller  | http://dblp.uni-trier.de/pers/hd/m/Miller:Charlie.html  |
+|   55857505 | 10705013     | Nina Jeliazkova | http://dblp.uni-trier.de/pers/hd/j/Jeliazkova:Nina.html |
+|  293990161 | 113134180    | Wang Yao        | http://dblp.uni-trier.de/pers/hd/y/Yao:Wang.html        |
+|  171917048 | 123456qwertz | Anna Averbakh   | http://dblp.uni-trier.de/pers/hd/a/Averbakh:Anna.html   |
+|        ... | ...          | ...             | ...                                                     |
 
 * [list of matched candidates](data/candidates_matched.tsv)
 
@@ -69,20 +75,20 @@ for 20 (13%) of them the experts could neither confirm nor confute the
 match. Still, many of the 41 non-positive candidates turned out to be
 computer scientists.
 
-| Twitter Screen Name | Real Name | DBLP URL | Expert Judgement |
-| ------------------- | --------- | ---------| :---------------:|
-| 777VJ	              | Junghong Choi	|http://dblp.uni-trier.de/pers/hd/c/Choi:Junghong.html	 | :heavy_check_mark: true
-| afsanehdoryab	      | Afsaneh Doryab	|http://dblp.uni-trier.de/pers/hd/d/Doryab:Afsaneh.html	 | nan
-| _akira_	          | Akira Yokokawa	|http://dblp.uni-trier.de/pers/hd/y/Yokokawa:Akira.html	 | :heavy_check_mark: true
-| albertobeta	      | Alberto Betella	|http://dblp.uni-trier.de/pers/hd/b/Betella:Alberto.html |	:heavy_check_mark: true
-| alexander_usoro	  | Alexander James	|http://dblp.uni-trier.de/pers/hd/j/James:Alexander.html |	nan
+| Screen Name     | Real Name | DBLP URL | Expert Judgement |
+| --------------- | --------- | ---------| :---------------:|
+| 777VJ	          | Junghong Choi	|http://dblp.uni-trier.de/pers/hd/c/Choi:Junghong.html	 | :heavy_check_mark: true
+| afsanehdoryab	  | Afsaneh Doryab	|http://dblp.uni-trier.de/pers/hd/d/Doryab:Afsaneh.html	 | nan
+| _akira_	      | Akira Yokokawa	|http://dblp.uni-trier.de/pers/hd/y/Yokokawa:Akira.html	 | :heavy_check_mark: true
+| albertobeta	  | Alberto Betella	|http://dblp.uni-trier.de/pers/hd/b/Betella:Alberto.html |	:heavy_check_mark: true
+| alexander_usoro | Alexander James	|http://dblp.uni-trier.de/pers/hd/j/James:Alexander.html |	nan
 | ... | ... | ... | ... |
 
 * [list of verified candidates](data/candidates_verified.tsv)
 
 ## Negative Examples
 
-| Twitter Screen Name | Real Name | Type |
+| Screen Name | Real Name | Type |
 | ------------------- | --------- | ---- |
 | 0127Kikki	| あきひろー	| random
 | 0127Syuu	| 岩崎柊	| random
@@ -133,7 +139,7 @@ computer scientists.
 
 ## Classification
 
-| Twitter Screen Name |	Real Name	| class | 
+| Screen Name |	Real Name	| class | 
 | --- | --- | --- | 
 | 00002163	| maria guerrero parra	| researcher
 | 000Foofn999	| Fofo000 000	| non-researcher
