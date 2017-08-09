@@ -8,7 +8,8 @@ At the moment, this includes computer scientists, though an extension to other d
 - The data can be cited as follows: *Asmelash Teka Hadgu and Robert
   Jäschke. 2014. Identifying and Analyzing Researchers on Twitter. In
   Proceedings of the 6th Annual ACM Web Science Conference (WebSci
-  '14). 23-30. ACM, New York, NY, USA. DOI: 10.1145/2615569.2615676*
+  '14). 23-30. ACM, New York, NY, USA. DOI:
+  [10.1145/2615569.2615676](http://dx.doi.org/10.1145/2615569.2615676)*
   ([PDF](https://www.kbs.uni-hannover.de/~jaeschke/pdf/hadgu2014identifying.pdf))
 - The data is also available on Zenodo:
   [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.12942.svg)](http://dx.doi.org/10.5281/zenodo.12942)
