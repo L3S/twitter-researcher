@@ -18,10 +18,10 @@ to other disciplines is planned.
 
 The file [features_reciprocity.tsv](data/features_reciprocity.tsv)
 contains the data that was used in the paper *S. Linek, A. Teka Hadgu,
-C.P. Hoffmann, R. Jäschke, C. Puschmann: It's all about information?
-The Following Behaviour of Professors and PhD Students on Twitter. The
-Journal of Web Science. 3, 2017.*
-([PDF](http://www.webscience-journal.net/webscience/article/view/15))
+C.P. Hoffmann, R. Jäschke, C. Puschmann:
+[It's all about information?  The Following Behaviour of Professors and PhD Students on Twitter](http://dx.doi.org/10.1561/106.00000008). The
+Journal of Web Science. 3, 2017. DOI: 10.1561/106.00000008*
+([PDF](http://www.nowpublishers.com/article/Download/JWS-0008))
 
 ## Overview
 
