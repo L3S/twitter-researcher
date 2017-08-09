@@ -2,7 +2,7 @@
 
 This repository contains the data used in the paper
 [Identifying and Analyzing Researchers on Twitter](http://dx.doi.org/10.1145/2615569.2615676)
-([PDF](https://www.kbs.uni-hannover.de/~jaeschke/pdf/hadgu2014identifying.pdf)).
+([PDF](http://www.kbs.uni-hannover.de/~jaeschke/pdf/hadgu2014identifying.pdf)).
 At the moment, this includes computer scientists, though an extension
 to other disciplines is planned.
 
